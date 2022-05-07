@@ -1,0 +1,119 @@
+{
+  "basic_info": {
+    "description_header": "Hello!",
+    "description": "👋🏽 I'm Rohit. An aspiring frontend developer recently graduated from Singapore Management University :) I work with newest frontend frameworks like React and Vue. My goal is to build application user experiences to deliver information effectively and aesthetically to website visitors. I am committed to helping companies advance by helping them develop frontend applications to communicate the essence of their products to consumers. During my spare time, I like to read, hit the gym, watch shows and chill with my friends 😀",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Open World Tourism",
+      "startDate": "2022",
+      "description": "Programmed a 3-dimensional virtual open world of Singapore using ReactJS, ThreeJS, React Bootstrap, leveraging various open-source APIs provided by Singapore Tourism Board (STB). Implemented form recommendation that suggest user's various attractions located in Singapore based on various parameters and preferences. Converted GLTF models into declarative and reusable JSX components to create significant landmarks (eg Singapore Merlion) within the application. ",
+      "images": [
+        "images/portfolio/animal-shelter/openWorldTourism.png",
+        "images/portfolio/animal-shelter/openWorldTourism2.png"
+      ],
+      "url": "https://openworldtourism.vercel.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Fleet Management Dashboard",
+      "startDate": "2022",
+      "description": "Integrated a Telematics Control Unit (TCU), consisting of various IoT devices and microprocessors (onboard diagnostic dongle, accelerometer, GPS tracker) to collect real-time vehicular data from vehicles and transmit to AWS IoT Core for storage and processing. Spearheaded the development of the web-based application, developed using ReactJS, ChartJS and Python Flask to create visually appealing charts and tables for monitoring and reporting purposes. Performed rule-based analysis on processed vehicular data to determine and detect vehicular accidents and communicate such occurrences to the headquarters in real-time.",
+      "images": [
+        "images/portfolio/photography/fleetmate.png",
+        "images/portfolio/photography/fleetmate2.png"
+      ],
+      "url": "https://sites.google.com/smu.edu.sg/fleetmate/home",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
+    },
+    {
+      "title": "Predictive Analysis of Risk Utilisation",
+      "startDate": "2021",
+      "description": "Utilised ReactJS, Couchbase & Python Flask to develop a dashboard used by Citibank's Risk Managers to identify potential trading order breaches. Assumed the role of Project Manager & Spearheaded the development of the Application UI. Assisted in the development of 3 Machine Learning solutions to predict movement of risk parameters based on historical trading patterns. ",
+      "images": [
+        "images/portfolio/adventure/fyp.png",
+        "images/portfolio/adventure/fyp2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Bountie Technologies",
+      "title": "IT Project Management Intern",
+      "years": "May 2020 - Aug 2020",
+      "mainTech": ["Python / JavaScript"],
+      "technologies": [
+        "Django",
+        "HTML5",
+        "CSS 3",
+        "JavaScript",
+        "Phaser 3",
+        "Sockets.io"
+      ]
+    },
+    {
+      "company": "BeLive Technologies",
+      "title": "Data Science Intern",
+      "years": "May 2021 - Jan 2022",
+      "mainTech": ["Python"],
+      "technologies": [
+        "REST API",
+        "NLP",
+        "Sentiment Analysis",
+        "BERT Architectures",
+        "Sentence Transformers",
+        "Regular Expression",
+        "SKLearn",
+        "Pandas",
+        "Numpy"
+      ]
+    }
+  ]
+}
