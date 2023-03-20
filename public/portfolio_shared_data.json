@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Rohit Bhojwani",
-      "titles": [  "Information Systems Graduate", "Frontend Developer", "Data Scientist" ],
+      "titles": [  "Information Systems Graduate", "Software Engineer", "Full Stack Developer" ],
       "social": [
         {
           "name": "github",
@@ -23,6 +23,11 @@
     },
     "skills": {
       "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -46,6 +51,11 @@
         {
           "name": "React",
           "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
           "level": "80"
         },
         {
